@@ -1,0 +1,62 @@
+body{
+	background-image: url("img/Mass-Effect-Andromeda.jpg");
+}
+.top_bar{
+	background:#42433E;
+	padding: 5px 0;
+}
+.social_icons{
+	margin-right:5px;
+}
+.info_id{
+	color:#fff;
+}
+.my_menu{
+	margin-top:27px;
+}
+.my_menu .navbar-default{
+	background:none;
+	border:none;
+}
+.my_menu .navbar-nav .active a,.my_menu .navbar-nav .active a:hover{
+	background:#42433E;
+	color:#FFF;
+}
+.my_menu .navbar-nav li a:hover{
+	background:#42433E;
+	color:#FFF;
+}
+@media (max-width:1200px){
+	.my_menu .pull-right{float:none!important;}
+}
+
+.imgone{
+	margin-top:10px;
+}
+
+
+.imgtwo{
+	margin-top:10px;
+}
+
+
+.imgthree{
+	margin-top:10px;
+}
+
+.footer{
+	background:#42433E;
+	padding:20px 0;
+}
+.footer{
+	color:#fff;
+}
+.footer ul{
+	color:#fff;
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+.footer ul li{
+	color:#fff;
+}
